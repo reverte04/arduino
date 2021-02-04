@@ -9,3 +9,4 @@ esta es mi prmerita vez
 
 [Theremin sin terminar](https://github.com/reverte04/arduino/blob/main/lolo.ino)
 
+[temperatura](https://github.com/reverte04/arduino/blob/main/TEMPERATURA__ARDUINO.ino)
