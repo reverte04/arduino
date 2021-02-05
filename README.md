@@ -16,3 +16,5 @@ esta es mi prmerita vez
 [pitomusic](https://github.com/reverte04/arduino/blob/main/pitomusic.ino)
 
 [negroataud](https://github.com/reverte04/arduino/blob/main/negroataud.ino)
+
+[sensor termico](https://github.com/reverte04/arduino/blob/main/calentamientorev.ino)
