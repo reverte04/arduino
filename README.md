@@ -22,3 +22,5 @@ https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP
 [boton sonido](https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP)
 
 [repositorio prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
+
+[helicoptero](https://github.com/reverte04/arduino/blob/main/elicopterooo.ino)
