@@ -24,4 +24,4 @@ https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP
 [repositorio prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
 [helicoptero](https://github.com/reverte04/arduino/blob/main/elicopterooo.ino)
-[imagen helicoptero](https://github.com/reverte04/arduino/blob/main/IMG_20210208_121903_1.jpg)
+![imagen helicoptero](https://github.com/reverte04/arduino/blob/main/IMG_20210208_121903_1.jpg)
