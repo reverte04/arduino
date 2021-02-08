@@ -12,9 +12,11 @@ esta es mi prmerita vez
 [temperatura](https://github.com/reverte04/arduino/blob/main/TEMPERATURA__ARDUINO.ino)
 
 [switch](https://github.com/reverte04/arduino/blob/main/Stitch_arduino.ino)
-
+https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP
 [pitomusic](https://github.com/reverte04/arduino/blob/main/pitomusic.ino)
 
 [negroataud](https://github.com/reverte04/arduino/blob/main/negroataud.ino)
 
 [sensor termico](https://github.com/reverte04/arduino/blob/main/calentamientorev.ino)
+
+[boton sonido](https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP)
