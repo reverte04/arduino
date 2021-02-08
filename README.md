@@ -20,3 +20,5 @@ https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP
 [sensor termico](https://github.com/reverte04/arduino/blob/main/calentamientorev.ino)
 
 [boton sonido](https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP)
+
+[repositorio prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
