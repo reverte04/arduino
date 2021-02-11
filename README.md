@@ -2,6 +2,12 @@
 ## Empezando a documentar
 
 esta es mi prmerita vez
+este texto no tiene formato**Este está
+** Y,ademas _este está en
+cursiva_ .
+<b>texto</b> 
+
+
 
 [MARKDOWN](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
@@ -25,3 +31,4 @@ https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP
 
 [helicoptero](https://github.com/reverte04/arduino/blob/main/elicopterooo.ino)
 ![imagen helicoptero](https://github.com/reverte04/arduino/blob/main/IMG_20210208_121903_1.jpg)
+
