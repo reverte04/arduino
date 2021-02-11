@@ -15,7 +15,7 @@
 
 * [Proyectos con sensor de temperatura](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-con-sensor-de-temperatura)
 
-* [Proyectos con piezo (altavoz)]
+* [Proyectos con piezo (altavoz)](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-con-piezo-altavoz )
 
 * [Proyectos de servomotor y potenciómetro]
 
