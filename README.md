@@ -1,11 +1,6 @@
 # proyecto de arduino 
 ## Empezando a documentar
 
-esta es mi prmerita vez
-este texto no tiene formato**Este está** Y,ademas _este está en
-cursiva_ .
-
-
 <b>que guapo soy</b> 
 
 <i>que guapo soy</i>
