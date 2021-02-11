@@ -13,6 +13,13 @@
 
 * [Proyectos con solo led y botón](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-solo-con-led-y-bot%C3%B3n)
 
+* [Proyectos con sensor de temperatura](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-con-sensor-de-temperatura)
+
+* [Proyectos con piezo (altavoz)]
+
+* [Proyectos de servomotor y potenciómetro]
+
+* [Otras cosas y documentación]
 
 ## Proyectos realizados
 
