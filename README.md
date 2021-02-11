@@ -22,14 +22,17 @@ cursiva_ .
 
 ## Índice de proyectos
 
-* [Proyectos con solo led y botón]
+* [Proyectos con solo led y botón](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-solo-con-led-y-bot%C3%B3n)
 
 
 ## Proyectos realizados
 
 ### Proyectos solo con led y botón
+[switch](https://github.com/reverte04/arduino/blob/main/Stitch_arduino.ino)
 
 ### Proyectos con sensor de temperatura
+[sensor termico](https://github.com/reverte04/arduino/blob/main/calentamientorev.ino)
+[temperatura](https://github.com/reverte04/arduino/blob/main/TEMPERATURA__ARDUINO.ino)
 
 
 ### Proyectos con piezo (altavoz)
@@ -40,7 +43,13 @@ cursiva_ .
 
 [pitomusic](https://github.com/reverte04/arduino/blob/main/pitomusic.ino)  
 
+[negroataud](https://github.com/reverte04/arduino/blob/main/negroataud.ino)
+
+
+
 ### Proyectos de servomotor y potenciómetro
+[helicoptero](https://github.com/reverte04/arduino/blob/main/elicopterooo.ino)
+![imagen helicoptero](https://github.com/reverte04/arduino/blob/main/IMG_20210208_121903_1.jpg)
 
 
 ### Otras cosas y documentación
@@ -49,21 +58,6 @@ cursiva_ .
 
 [KIll Switch de Naira](https://github.com/chechiliaa/arduino/blob/main/triple_luz_naira.ino)
 
-
-
-[temperatura](https://github.com/reverte04/arduino/blob/main/TEMPERATURA__ARDUINO.ino)
-
-[switch](https://github.com/reverte04/arduino/blob/main/Stitch_arduino.ino)
-https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP
-
-[negroataud](https://github.com/reverte04/arduino/blob/main/negroataud.ino)
-
-[sensor termico](https://github.com/reverte04/arduino/blob/main/calentamientorev.ino)
-
-
-
 [repositorio prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
-[helicoptero](https://github.com/reverte04/arduino/blob/main/elicopterooo.ino)
-![imagen helicoptero](https://github.com/reverte04/arduino/blob/main/IMG_20210208_121903_1.jpg)
 
