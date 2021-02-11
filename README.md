@@ -1,12 +1,6 @@
 # proyecto de arduino 
 ## Empezando a documentar
 
-<b>que guapo soy</b> 
-
-<i>que guapo soy</i>
-
-<del>que guapo soi</del>
-
 ## Descripción del proyecto 
 
 <b>hola soy javier reverte tengo novia me gusta er furbol, y salir con don ramon y mi primo el prexita </b>
