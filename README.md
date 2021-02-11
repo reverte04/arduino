@@ -12,11 +12,15 @@ cursiva_ .
 
 <del>que guapo soi</del>
 
-## Descripción del proyecto
+## Descripción del proyecto 
 
 <b>hola soy javier reverte tengo novia me gusta er furbol, y salir con don ramon y mi primo el prexita </b>
 
 <b>este es mi repositorio donde tengo que subir mis proyectos de arduino filipino para que el profe este contento y no me diga deja los cascos concun</b>
+
+<del>cuidado con hacer ruiditos que te viene piter pan con la tula 1cm y el primo del bang gay a robarte la motocicleta</del>
+
+
 
 
 
