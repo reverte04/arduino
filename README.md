@@ -46,7 +46,9 @@
 ### Proyectos de servomotor y potenciómetro
 [helicoptero](https://github.com/reverte04/arduino/blob/main/elicopterooo.ino)
 ![imagen helicoptero](https://github.com/reverte04/arduino/blob/main/IMG_20210208_121903_1.jpg)
+
 [proyecto con dos movimientos](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino) (son de Wesley pero lo e echo)
+
 [proyecto con Killswitch y potenciómetro](https://github.com/Wesley3455/Arduino-/blob/main/sketch_feb09b_wsb.ino) (son de Wesley pero lo e echo)
 
 
