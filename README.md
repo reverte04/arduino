@@ -17,7 +17,7 @@
 
 * [Proyectos con piezo (altavoz)](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-con-piezo-altavoz )
 
-* [Proyectos de servomotor y potenciómetro]
+* [Proyectos de servomotor y potenciómetro](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-de-servomotor-y-potenci%C3%B3metro)
 
 * [Otras cosas y documentación]
 
