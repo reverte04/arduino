@@ -22,7 +22,14 @@ cursiva_ .
 
 ## Índice de proyectos
 
+* [Proyectos con solo led y botón]
+
+
 ## Proyectos realizados
+
+### Proyectos solo con led y botón
+
+### Proyectos con sensor de temperatura
 
 
 ### Proyectos con piezo (altavoz)
@@ -33,6 +40,7 @@ cursiva_ .
 
 [pitomusic](https://github.com/reverte04/arduino/blob/main/pitomusic.ino)  
 
+### Proyectos de servomotor y potenciómetro
 
 
 ### Otras cosas y documentación
