@@ -10,6 +10,8 @@ cursiva_ .
 
 <i>que guapo soy</i>
 
+<del>que guapo soi</del>
+
 
 
 [MARKDOWN](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
