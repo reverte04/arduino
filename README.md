@@ -2,10 +2,11 @@
 ## Empezando a documentar
 
 esta es mi prmerita vez
-este texto no tiene formato**Este está
-** Y,ademas _este está en
+este texto no tiene formato**Este está** Y,ademas _este está en
 cursiva_ .
-<b>texto</b> 
+
+
+<b>que guapo soy</b> 
 
 
 
