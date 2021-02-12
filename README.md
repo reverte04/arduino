@@ -41,6 +41,8 @@
 
 [negroataud](https://github.com/reverte04/arduino/blob/main/negroataud.ino)
 
+[piano modificado](https://github.com/reverte04/arduino/blob/main/piano.ino)
+
 
 
 ### Proyectos de servomotor y potenciómetro
