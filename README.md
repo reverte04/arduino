@@ -21,6 +21,8 @@
 
 * [Otras cosas y documentación](https://github.com/reverte04/arduino/blob/main/README.md#otras-cosas-y-documentaci%C3%B3n)
 
+*[Proyectos con uso de millis () sin delay ()](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-con-uso-de-millis--sin-delay-) 
+
 ## Proyectos realizados
 
 ### Proyectos solo con led y botón
