@@ -62,6 +62,13 @@
 
 [repositorio prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
+### Proyectos con uso de millis () sin delay ()
+
 [reloj arena](https://github.com/Albitah24/arduino/blob/main/Reloj__de_arena_UwU.ino)
+
+[motor giratorio](https://github.com/Albitah24/arduino/blob/main/motor_giratorio_de_feria.ino)
+
+[motor giratorio rueda](https://github.com/Albitah24/arduino/blob/main/motor_giratorio_de__feria_moderable_con_rueda.ino)
+
 
 
