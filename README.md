@@ -23,7 +23,7 @@
 
 * [Motores 9v()](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-con-uso-de-millis--sin-delay-) 
 
-* [sin millis]( 
+* [sin millis](https://github.com/reverte04/arduino/blob/main/README.md#sin-millis)
 
 ## Proyectos realizados
 
