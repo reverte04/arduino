@@ -21,7 +21,7 @@
 
 * [Otras cosas y documentación](https://github.com/reverte04/arduino/blob/main/README.md#otras-cosas-y-documentaci%C3%B3n)
 
-*[ Motores 9v()](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-con-uso-de-millis--sin-delay-) 
+*[Motores 9v()](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-con-uso-de-millis--sin-delay-) 
 
 ## Proyectos realizados
 
