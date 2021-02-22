@@ -62,4 +62,6 @@
 
 [repositorio prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
+[reloj arena](https://github.com/Albitah24/arduino/blob/main/Reloj__de_arena_UwU.ino)
+
 
