@@ -21,7 +21,9 @@
 
 * [Otras cosas y documentación](https://github.com/reverte04/arduino/blob/main/README.md#otras-cosas-y-documentaci%C3%B3n)
 
-*[Motores 9v()](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-con-uso-de-millis--sin-delay-) 
+* [Motores 9v()](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-con-uso-de-millis--sin-delay-) 
+
+* [sin millis]( 
 
 ## Proyectos realizados
 
@@ -66,13 +68,14 @@
 
 ### Motores 9v()
 
-[reloj arena](https://github.com/Albitah24/arduino/blob/main/Reloj__de_arena_UwU.ino)
-
 [motor giratorio](https://github.com/Albitah24/arduino/blob/main/motor_giratorio_de_feria.ino)
 
 [motor giratorio rueda](https://github.com/Albitah24/arduino/blob/main/motor_giratorio_de__feria_moderable_con_rueda.ino)
 
 [motor teclado](https://github.com/reverte04/arduino/blob/main/motor_teclado.ino)
+
+### sin millis
+[reloj arena](https://github.com/Albitah24/arduino/blob/main/Reloj__de_arena_UwU.ino)
 
 
 
