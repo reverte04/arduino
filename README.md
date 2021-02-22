@@ -21,7 +21,7 @@
 
 * [Otras cosas y documentación](https://github.com/reverte04/arduino/blob/main/README.md#otras-cosas-y-documentaci%C3%B3n)
 
-*[Proyectos con uso de millis () sin delay ()](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-con-uso-de-millis--sin-delay-) 
+*[### Motores 9v()](https://github.com/reverte04/arduino/blob/main/README.md#proyectos-con-uso-de-millis--sin-delay-) 
 
 ## Proyectos realizados
 
@@ -64,7 +64,7 @@
 
 [repositorio prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
-### Proyectos con uso de millis () sin delay ()
+### Motores 9v()
 
 [reloj arena](https://github.com/Albitah24/arduino/blob/main/Reloj__de_arena_UwU.ino)
 
