@@ -81,5 +81,7 @@
 
 [reloj arena digital](https://github.com/reverte04/arduino/blob/main/reloj_arena_digital.ino)
 
+[refacorizando reloj digital](https://github.com/reverte04/arduino/blob/main/refactorizando_reloj_digital.ino)
+
 
 
