@@ -72,5 +72,7 @@
 
 [motor giratorio rueda](https://github.com/Albitah24/arduino/blob/main/motor_giratorio_de__feria_moderable_con_rueda.ino)
 
+[motor teclado](https://github.com/reverte04/arduino/blob/main/motor_teclado.ino)
+
 
 
