@@ -77,5 +77,7 @@
 ### sin millis
 [reloj arena](https://github.com/Albitah24/arduino/blob/main/Reloj__de_arena_UwU.ino)
 
+[contador](https://github.com/reverte04/arduino/blob/main/contador.ino)
+
 
 
