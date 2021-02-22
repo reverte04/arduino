@@ -83,5 +83,7 @@
 
 [refacorizando reloj digital](https://github.com/reverte04/arduino/blob/main/refactorizando_reloj_digital.ino)
 
+[añadiendo kill switch](https://github.com/reverte04/arduino/blob/main/a_adiendo_kill_switch.ino)
+
 
 
