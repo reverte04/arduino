@@ -85,6 +85,8 @@
 
 [añadiendo kill switch](https://github.com/reverte04/arduino/blob/main/a_adiendo_kill_switch.ino)
 
+[secuencia de apagado](https://github.com/reverte04/arduino/blob/main/Creando_una_secuencia_de_apagado.ino.ino)
+
 
 
 
