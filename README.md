@@ -96,6 +96,8 @@
 ### pantalla lcd
 [emoji](https://github.com/reverte04/arduino/blob/main/emogi.ino)
 
+![emoji imagen](https://raw.githubusercontent.com/Albitah24/arduino/main/Captura%20de%20pantalla%20de%202021-03-11%2012-56-38.png) (imagen alba)
+
 [contador](https://github.com/reverte04/arduino/blob/main/numeros.ino)
 
 
