@@ -96,5 +96,7 @@
 ### pantalla lcd
 [emoji](https://github.com/reverte04/arduino/blob/main/emogi.ino)
 
+[contador](https://github.com/reverte04/arduino/blob/main/numeros.ino)
+
 
 
