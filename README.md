@@ -91,5 +91,8 @@
 
 [PARPADEO CON BOTON 2](https://github.com/reverte04/arduino/blob/main/PARPADEO_CON_BOTON_2.ino.ino)
 
+### pantalla lcd
+[emoji](https://github.com/reverte04/arduino/blob/main/emogi.ino)
+
 
 
