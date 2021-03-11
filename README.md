@@ -25,6 +25,8 @@
 
 * [sin millis](https://github.com/reverte04/arduino/blob/main/README.md#sin-millis)
 
+* [pantalla lcd](https://github.com/reverte04/arduino/blob/main/README.md#pantalla-lcd)
+
 ## Proyectos realizados
 
 ### Proyectos solo con led y botón
