@@ -43,7 +43,7 @@
 
 [lampara tactil](https://github.com/reverte04/arduino/blob/main/led_lampara_tactil.ino)
 
-![]()
+![](https://github.com/reverte04/arduino/blob/main/lolol.jpeg)
 
 
 ### Proyectos con piezo (altavoz)
