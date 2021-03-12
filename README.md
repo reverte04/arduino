@@ -119,5 +119,7 @@
 ### medias aritmeticas
 [nota aritmetica](https://github.com/reverte04/arduino/blob/main/nota_aritmetica.ino)
 
+[media ponderada](https://github.com/reverte04/arduino/blob/main/nota_ponderada.ino)
+
 
 
