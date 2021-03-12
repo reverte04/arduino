@@ -121,5 +121,7 @@
 
 [media ponderada](https://github.com/reverte04/arduino/blob/main/nota_ponderada.ino)
 
+[minimo y maximo](https://github.com/reverte04/arduino/blob/main/nota_minimo_maximo.ino)
+
 
 
