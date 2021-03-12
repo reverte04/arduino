@@ -39,6 +39,8 @@
 ### Proyectos con sensor de temperatura
 [sensor termico](https://github.com/reverte04/arduino/blob/main/calentamientorev.ino)
 [temperatura](https://github.com/reverte04/arduino/blob/main/TEMPERATURA__ARDUINO.ino)
+[]
+![](blob:https://web.whatsapp.com/ad1e61ba-b075-40d9-8ad0-13be224b00df)
 
 
 ### Proyectos con piezo (altavoz)
