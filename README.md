@@ -27,6 +27,8 @@
 
 * [pantalla lcd](https://github.com/reverte04/arduino/blob/main/README.md#pantalla-lcd)
 
+* [joystick](https://github.com/reverte04/arduino/blob/main/README.md#joystick)
+
 ## Proyectos realizados
 
 ### Proyectos solo con led y botón
