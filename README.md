@@ -70,6 +70,8 @@
 
 [radar](https://github.com/reverte04/arduino/blob/main/radar_reverte.ino)
 
+[radar a la derecha](https://github.com/reverte04/arduino/blob/main/radar_a_la_derecha_reverte.ino)
+
 ### Motores 9v()
 
 [motor giratorio](https://github.com/Albitah24/arduino/blob/main/motor_giratorio_de_feria.ino)
