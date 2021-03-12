@@ -29,6 +29,8 @@
 
 * [joystick](https://github.com/reverte04/arduino/blob/main/README.md#joystick)
 
+*[medias aritmeticas](https://github.com/reverte04/arduino/blob/main/README.md#medias-aritmeticas) 
+
 ## Proyectos realizados
 
 ### Proyectos solo con led y botón
