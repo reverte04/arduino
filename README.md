@@ -114,5 +114,8 @@
 
 [contador](https://github.com/reverte04/arduino/blob/main/numeros.ino)
 
+### medias aritmeticas
+[nota aritmetica](https://github.com/reverte04/arduino/blob/main/nota_aritmetica.ino)
+
 
 
