@@ -38,8 +38,11 @@
 
 ### Proyectos con sensor de temperatura
 [sensor termico](https://github.com/reverte04/arduino/blob/main/calentamientorev.ino)
+
 [temperatura](https://github.com/reverte04/arduino/blob/main/TEMPERATURA__ARDUINO.ino)
+
 [lampara tactil](https://github.com/reverte04/arduino/blob/main/led_lampara_tactil.ino)
+
 ![](blob:https://web.whatsapp.com/ad1e61ba-b075-40d9-8ad0-13be224b00df)
 
 
