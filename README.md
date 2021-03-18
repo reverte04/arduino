@@ -81,6 +81,8 @@
 
 [radar](https://github.com/reverte04/arduino/blob/main/radar_reverte.ino)
 
+![foto radar](https://raw.githubusercontent.com/chenbangwei/Arduino/main/radar.jpg) (foto bang)
+
 [joystick](https://github.com/reverte04/arduino/blob/main/joystick.ino)
 
 [joystick a la derecha](https://github.com/reverte04/arduino/blob/main/radar_a_la_derecha_reverte.ino)
