@@ -77,7 +77,9 @@
 
 [repositorio prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
-### joystick (18/03/21) echo por Javi y Marcos 
+### joystick 
+
+Esta serie de ejercicios fueron realizados () y los hemos hecho entre Marcos Hens (enlace) y yo. 
 
 [radar](https://github.com/reverte04/arduino/blob/main/radar_reverte.ino)
 
