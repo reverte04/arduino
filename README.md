@@ -52,7 +52,7 @@
 
 [boton sonido](https://github.com/reverte04/arduino/blob/main/SNIPPET_KILL_SWITCH.CPP)
 
-[pitomusic](https://github.com/reverte04/arduino/blob/main/pitomusic.ino)  
+[cancion](https://github.com/reverte04/arduino/blob/main/pitomusic.ino)  
 
 [negroataud](https://github.com/reverte04/arduino/blob/main/negroataud.ino)
 
