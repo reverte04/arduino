@@ -77,7 +77,7 @@
 
 [repositorio prieto](https://github.com/d-prieto/arduinoCourse#repositorios-de-alumnos)
 
-### joystick
+### joystick (18/03/21) echo por Javi y Marcos 
 
 [radar](https://github.com/reverte04/arduino/blob/main/radar_reverte.ino)
 
@@ -89,6 +89,8 @@
 
 
 [joystick a la derecha](https://github.com/reverte04/arduino/blob/main/radar_a_la_derecha_reverte.ino)
+
+![](https://raw.githubusercontent.com/chenbangwei/Arduino/main/funcion%20a%20la%20derecha.jpg) (bang)
 
 [joystick y led](https://github.com/reverte04/arduino/blob/main/joystick_y_led.ino)
 
