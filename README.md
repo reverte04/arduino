@@ -85,6 +85,9 @@
 
 [joystick](https://github.com/reverte04/arduino/blob/main/joystick.ino)
 
+![joystick](https://user-images.githubusercontent.com/78345753/111597553-8fc50a80-87ce-11eb-82e6-098d0aa3e5ef.png)(bang)
+
+
 [joystick a la derecha](https://github.com/reverte04/arduino/blob/main/radar_a_la_derecha_reverte.ino)
 
 [joystick y led](https://github.com/reverte04/arduino/blob/main/joystick_y_led.ino)
