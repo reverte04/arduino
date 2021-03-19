@@ -137,5 +137,9 @@ Esta serie de ejercicios fueron realizados y los hemos hecho entre  [Marcos Hens
 
 [minimo y maximo](https://github.com/reverte04/arduino/blob/main/nota_minimo_maximo.ino)
 
+### examen
+
+[ex1](https://github.com/reverte04/arduino/blob/main/num_1_examen_javi.ino)
+
 
 
