@@ -79,7 +79,7 @@
 
 ### joystick 
 
-Esta serie de ejercicios fueron realizados () y los hemos hecho entre Marcos Hens (enlace) y yo. 
+Esta serie de ejercicios fueron realizados y los hemos hecho entre Marcos Hens [](https://github.com/marcoshens/arduinoo#joystick) y yo. 
 
 [radar](https://github.com/reverte04/arduino/blob/main/radar_reverte.ino)
 
