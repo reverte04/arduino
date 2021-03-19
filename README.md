@@ -141,7 +141,7 @@ Esta serie de ejercicios fueron realizados y los hemos hecho entre  [Marcos Hens
 
 [ex1](https://github.com/reverte04/arduino/blob/main/num_1_examen_javi.ino)
 
-[ex2](https://github.com/reverte04/arduino/blob/main/ex_2_examen.ino) 
+[ex2](https://github.com/reverte04/arduino/blob/main/ex_2_exame.ino) 
 no me dan respuesta los dos botones e puesto : if (digitalRead(bottonpin1) == HIGH) {
 digitalWrite(ledpin1, HIGH);
 
